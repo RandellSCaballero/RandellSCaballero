@@ -1,11 +1,11 @@
 ### Hi there, I'm Randell Caballero👋
 <hr>
 
-I'm a computer engineer, currently on my last year of college💻
+I'm a computer engineer, currently in my last year of college💻
 
 
 
-🔭 I’m currently working on personal projects, using React, Javascript, MongoDB and Node. <br />
+🔭 I’m currently working on personal projects, using React, React Native, Javascript, MongoDB, Firebase, and Node. <br />
 👯 I’m looking to collaborate on any website as front end developer.
 
 
